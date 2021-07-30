@@ -91,4 +91,4 @@ Para la categoria de Estado de anime predominan los animes que ya se encuentran 
 
 
 
-# conlusiones generales de las tres paginas de anime
+# conclusiones generales de las tres paginas de anime
