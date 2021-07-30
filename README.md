@@ -88,7 +88,21 @@ Conclusiones de las categorias que tienen mayor concentracion de animes:
 Se observa una gran cantidad de animes para el genero de comedia, siguiendo el genero de accion y en tercer lugar el genero de fantasia.
 El anime de Tv es el tipo de anime que predomina en Tioanime.
 Para la categoria de Estado de anime predominan los animes que ya se encuentran finalizados.
-
+Elegí la pagina de tioAnime porque es gratuita y fácil de navegar, esta está dentro de las mas conocidas en Latinoamérica, y dentro de los países que mas visitan esta pagina se encuentra México con el 22,6% y luego Colombia con el 12,88%, chile se posiciona dentro del 5 lugar con el 8,55% de los visitantes.
+Dentro de la pagina podemos filtrar por tipo los cuales son tv, películas, ova y especial.
+Dentro de los géneros contamos con 40 diferentes anime ordenados de manera alfabetica.
+También se puede buscar animes según año, según estado y ordenar de acuerdo a mas reciente o menos reciente.
+El genero comedia es el que cuenta con mas animes dentro de la pagina, pues cuenta con 1.590 animes. El genero de acción ocupa el segundo lugar con 1241 animes. Fantasía con 121 animes.
+Para el tipo de animes el tipo que tiene mas es de TV con 2481, una cifra muy distinta a la de el tipo especial que cuenta con solo 12 animes.
+Para los estados de emisión la categoría de finalizado cuenta con 3.422, y en emisión 48, lo que sumados hacen un total de 3.470 animes para la pagina de Tioanime.
 
 
 # conclusiones generales de las tres paginas de anime
+Para finalizar se puede concluir que al comparar las tres paginas, cada una tiene algo que la otra no tiene, un ejemplo de esto es que animefenix no tiene categorías, su navegador concentra a todo el anime, mientras que tioanime tiene 40 categorias, pero de estas hay varios géneros que no tienen ningún anime, por otro lado jkanime tiene 42 categorías y todas tienen algún anime, por lo que si el usuario quisiera ver algún genero en especifico, es preferible que use Jkanime.
+
+Por otro lado si se habla de tipo de anime, jkanime se queda atrás, ya que esta pagina solo tiene dos, mientras que las otras dos paginas tienen cuatro tipos, pero tianime a pesar de que tiene las cuatro categorías, hay una que no tiene ninguna anime, por lo que si se quiere ver por tipo es preferible que el usuario escoja Animefenix
+Pero Animefenix no se queda atrás puesto que esta pagina es la que mayor animes finalizados tiene, al comparación de las otras dos paginas.
+
+Además se puede observar que one piece no es el anime mas visto en las paginas seleccionadas, ya que el primer lugar no se repite, por el contrario el segundo, si, el cual es one piece.
+Por lo que queda al gusto del usuario escoger en que pagina ver anime, puesto que depende de él ver que pagina le gusta más.
+
