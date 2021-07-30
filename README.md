@@ -28,6 +28,67 @@ se utilizan las mismas funciones de la categoria anterior, funciones For, Paste,
 # obteniendo todos los animes de la página
 la página de tioanime no tiene una url donde se encuentren todos los link, es po ello que al leseccionar el genero que se desea buscar se seleccionan todos los generos, por lo cual el link que se obtiene es https://tioanime.com/directorio?genero%5B%5D=accion&genero%5B%5D=artes-marciales&genero%5B%5D=aventura&genero%5B%5D=carreras&genero%5B%5D=ciencia-ficcion&genero%5B%5D=comedia&genero%5B%5D=demencia&genero%5B%5D=demonios&genero%5B%5D=deportes&genero%5B%5D=drama&genero%5B%5D=ecchi&genero%5B%5D=escolares&genero%5B%5D=espacial&genero%5B%5D=fantasia&genero%5B%5D=harem&genero%5B%5D=historico&genero%5B%5D=infantil&genero%5B%5D=josei&genero%5B%5D=juegos&genero%5B%5D=magia&genero%5B%5D=mecha&genero%5B%5D=militar&genero%5B%5D=misterio&genero%5B%5D=musica&genero%5B%5D=parodia&genero%5B%5D=policia&genero%5B%5D=psicologico&genero%5B%5D=recuentos-de-la-vida&genero%5B%5D=romance&genero%5B%5D=samurai&genero%5B%5D=seinen&genero%5B%5D=shoujo&genero%5B%5D=shounen&genero%5B%5D=sobrenatural&genero%5B%5D=superpoderes&genero%5B%5D=suspenso&genero%5B%5D=terror&genero%5B%5D=vampiros&genero%5B%5D=yaoi&genero%5B%5D=yuri&year=1950%2C2021&status=2&sort=recent&p="1        y utilizando la formula ya conocida de las funciones al ejecutarlo nos arroja todos los link de las 169 paginas.
 
+
+########
+Se intentó contabilizar los datos con distintas funciones, lamentablemente no se logró, es por ello que manera manual se obtuvieron los siguientes resultados para contatilizar los generos de Tioanime:
+Acción: 1241
+Artes marciales:	0
+Aventura:	608
+Carreras:	14
+Ciencia Ficcion:	0
+Comedia:	1590
+Demencia:	19
+Demonios:	122
+Deportes:	186
+Drama:	776
+Ecchi:	383
+Escolares:	745
+Espacial:	121
+Fantasia:	852
+Harem:	226
+Historico:	197
+Infantil:	44
+Josei:	41
+Juegos:	94
+Magia:	380
+Mecha:	257
+Militar:	190
+misterio:	248
+musica:	157
+Parodia:	108
+Policia:	43
+Psicologico:	142
+Recuentos de la vida:	0
+Romance:	810
+Samurai:	63
+Seinen:	329
+Shoujo:	223
+Shounen:	694
+Sobrenatural:	606
+Superpoderes:	224
+Suspenso:	59
+Terror:	149
+Vampiros:	65
+Yaoi:	38
+Yuri:	47
+
+Para los tipos de animes se contabilizo lo siguiente:
+Tv= 2.481
+Películas =363
+Ova= 566
+Especial= 12
+
+Estado del anime en Tioanime:
+Finalizado: 3.422
+En emisión: 48
+Próximamente: 6
+
 # conclusiones del analisis TioAnime
+Conclusiones de las categorias que tienen mayor concentracion de animes:
+Se observa una gran cantidad de animes para el genero de comedia, siguiendo el genero de accion y en tercer lugar el genero de fantasia.
+El anime de Tv es el tipo de anime que predomina en Tioanime.
+Para la categoria de Estado de anime predominan los animes que ya se encuentran finalizados.
+
+
 
 # conlusiones generales de las tres paginas de anime
